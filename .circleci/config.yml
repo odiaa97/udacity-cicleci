@@ -28,4 +28,4 @@ jobs:
       - run:
           name: Deploy
           command: |
-            npm run deploy
+            npm run frontend:deploy
